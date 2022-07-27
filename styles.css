@@ -65,6 +65,17 @@ footer p {
 	text-align: center;
 }
 
+/************** Flexslider styles **************/
+
+.flexslider {
+	margin: 0 20px;
+	border: none;
+	border-radius: 0;
+}
+
+.flex-control-paging li a.flex-active {
+	background: #B40205;
+}
 
 /**************** Media Queries ****************/
 
