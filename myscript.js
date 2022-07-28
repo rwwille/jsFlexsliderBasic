@@ -2,7 +2,7 @@ $(window).on('load', function () {
     $('.flexslider').flexslider(
         {
             animation: "slide",
-            slideshowSpeed: 1500,
+            slideshowSpeed: 3000,
             pauseOnHover: true,
             // direction: "vertical",
             // reverse: true  
