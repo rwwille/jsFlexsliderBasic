@@ -1,3 +1,3 @@
-# jsFlexsliderAdv
+# jsFlexsliderBasic
 
 From online JavaScript course from UC Davis
